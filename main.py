@@ -22,7 +22,7 @@ def get_user_details_json_file_read():
         return json.load(file)
 
 
-def my_script():
+def run_script():
     for input in get_user_details_json_file_read():
         user_id = input[0]
         user_name = input[1]
