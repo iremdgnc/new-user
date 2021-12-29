@@ -38,11 +38,6 @@ def run_script():
         print("Kullanıcıların bilgileri başarı ile kaydedildi\n" + "UserId:" + user_id + "\n", "Name: " + name + "\n",
               "Age: " + age + "\n")
 
-    # kullanıcadan bilgileri al tamam
-    # alınan bilgileri listeye yaz tamam
-    # yazılan bilgileri oku tamam
-    # return txt dosyasındaki bilgileri terminal ekrana basarak verecek
-
 
 if __name__ == "__main__":
     # run_script()
