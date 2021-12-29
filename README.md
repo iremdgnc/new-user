@@ -1,4 +1,4 @@
-# NEW USER MODULE
+# New User Module
 
 - This module is a simple add user module written in Python programming language.
 
