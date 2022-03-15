@@ -3,7 +3,7 @@
 - This module is a simple add user module written in Python programming language.
 
 
--The works done are as follows;
+- The works done are as follows;
 
    1. Retrieves information from the user.
    2. Writes the received information to the list
